@@ -1,3 +1,4 @@
+// Multilingual site controller v2
 const cfg=window.APP_CONFIG,esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function card(a){return `<article class="app-card"><div class="app-media"><img src="${esc(a.icon)}" alt="${esc(a.name)} icon" loading="lazy"></div><div class="app-body"><span class="tag">${esc(a.category)}</span><h3>${esc(a.name)}</h3><p>${esc(a.description)}</p><div class="card-actions"><a class="button small primary" href="${esc(a.appStoreUrl)}" target="_blank" rel="noopener" data-i18n="appStore">App Store ↗</a></div></div></article>`}
 document.querySelector('#app-grid').innerHTML=cfg.apps.map(card).join('');
