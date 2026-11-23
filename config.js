@@ -1,11 +1,11 @@
-window.APP_CONFIG = {
-  brand: 'Qasem Sharaf',
-  telegramUrl: '',
-  email: '',
-  developerUrl: 'https://apps.apple.com/se/developer/qasem-sharaf/id1804197940',
-  apps: [
-    { id: 'string-picture', name: 'String Picture', category: 'Creativity & Photography', description: 'Turn your photos into beautiful string-art patterns.', icon: '', screenshot: '', appStoreUrl: 'https://apps.apple.com/se/developer/qasem-sharaf/id1804197940', privacyUrl: '' },
-    { id: 'azangoo', name: 'Azangoo', category: 'Islamic Lifestyle', description: '', icon: '', screenshot: '', appStoreUrl: 'https://apps.apple.com/se/developer/qasem-sharaf/id1804197940', privacyUrl: '' },
-    { id: 'fiqhyar', name: 'FiqhYar', category: 'Islamic Lifestyle', description: '', icon: '', screenshot: '', appStoreUrl: 'https://apps.apple.com/se/developer/qasem-sharaf/id1804197940', privacyUrl: '' }
-  ]
-};
+window.APP_CONFIG={brand:'Qasem Sharaf',telegramUrl:'https://t.me/Abotorab_5',email:'',developerUrl:'https://apps.apple.com/se/developer/qasem-sharaf/id1804197940',apps:[
+{id:'hadi',name:'HADI App',category:'Islamic Lifestyle',description:'A spiritual companion for dhikr, Quran, ziyarat, duas and smart reminders.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/fe/26/3efe2646-eb05-26c4-849b-afda7674c521/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/hadi-app/id6743722842'},
+{id:'prayer-counter',name:'PrayerCounter App',category:'Health & Fitness',description:'A smart prayer counter for tracking rakats and prostrations with focus mode.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/8b/05/c88b05ff-16f1-ab61-5e6b-e11cb6ffc437/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/prayercounter-app/id6744842233'},
+{id:'tasbih-counter',name:'TasbihCounter',category:'Islamic Lifestyle',description:'Track daily dhikr and salawat with synchronized iPhone and Apple Watch counters.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/a5/82/b3a5823b-7abb-171a-5f08-eff43e8a56de/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/tasbihcounter/id6761031791'},
+{id:'mafia-role',name:'Mafia Role',category:'Games',description:'Manage roles, phases, timers and events for Mafia and Werewolf game nights.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/6e/19/cb6e19b5-24eb-8dc1-890b-91c70617035b/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/mafia-role/id6747138026'},
+{id:'fiqhyar',name:'FiqhYar',category:'Islamic Lifestyle',description:'Source-based search for Islamic rulings and Q&A from Ayatollah Sistani.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/63/5a/0f635afe-1ffc-f410-8e5d-5dde6fb6c879/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/fiqhyar/id6809416433'},
+{id:'photofix',name:'PhotoFix',category:'Photo & Video',description:'Resize, rotate and save photos quickly with a clean, lightweight editor.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/41/a5/5b41a514-f513-d7a3-c198-488fb56a0bab/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/photofix/id6746171676'},
+{id:'nirova',name:'Nirova',category:'Health & Fitness',description:'A private training partner for strength programs, progress and recovery.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/32/05/7c3205fb-1168-bea8-2a1e-fbccc278bdf7/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/nirova/id6807392355'},
+{id:'string-picture',name:'String Picture',category:'Creativity & Photography',description:'Transform photos into detailed string-art patterns with guided project tools.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/66/1f/ca661fcb-e329-3412-d05f-e12f8a97b837/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/string-picture/id6824043526'},
+{id:'haram-guide',name:'Haram Guide',category:'Travel',description:'A comprehensive guide to Islamic holy sites and pilgrimage destinations.',icon:'https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/96/69/5a966940-52ce-9880-92f3-ecff11286128/AppIcon-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.jpg',appStoreUrl:'https://apps.apple.com/se/app/haram-guide/id6752537757'}
+]};
